@@ -7,3 +7,4 @@
 /pkg/
 /spec/reports/
 /tmp/
+/lib/firebase_admin/nodejs/node_modules
